@@ -1,0 +1,15 @@
+C:\hmwrk54\Ex58\bin\Debug\net6.0\Ex58.exe
+C:\hmwrk54\Ex58\bin\Debug\net6.0\Ex58.deps.json
+C:\hmwrk54\Ex58\bin\Debug\net6.0\Ex58.runtimeconfig.json
+C:\hmwrk54\Ex58\bin\Debug\net6.0\Ex58.dll
+C:\hmwrk54\Ex58\bin\Debug\net6.0\Ex58.pdb
+C:\hmwrk54\Ex58\obj\Debug\net6.0\Ex58.csproj.AssemblyReference.cache
+C:\hmwrk54\Ex58\obj\Debug\net6.0\Ex58.GeneratedMSBuildEditorConfig.editorconfig
+C:\hmwrk54\Ex58\obj\Debug\net6.0\Ex58.AssemblyInfoInputs.cache
+C:\hmwrk54\Ex58\obj\Debug\net6.0\Ex58.AssemblyInfo.cs
+C:\hmwrk54\Ex58\obj\Debug\net6.0\Ex58.csproj.CoreCompileInputs.cache
+C:\hmwrk54\Ex58\obj\Debug\net6.0\Ex58.dll
+C:\hmwrk54\Ex58\obj\Debug\net6.0\refint\Ex58.dll
+C:\hmwrk54\Ex58\obj\Debug\net6.0\Ex58.pdb
+C:\hmwrk54\Ex58\obj\Debug\net6.0\Ex58.genruntimeconfig.cache
+C:\hmwrk54\Ex58\obj\Debug\net6.0\ref\Ex58.dll

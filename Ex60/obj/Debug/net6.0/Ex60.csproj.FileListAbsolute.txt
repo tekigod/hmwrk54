@@ -1,0 +1,15 @@
+C:\hmwrk54\Ex60\bin\Debug\net6.0\Ex60.exe
+C:\hmwrk54\Ex60\bin\Debug\net6.0\Ex60.deps.json
+C:\hmwrk54\Ex60\bin\Debug\net6.0\Ex60.runtimeconfig.json
+C:\hmwrk54\Ex60\bin\Debug\net6.0\Ex60.dll
+C:\hmwrk54\Ex60\bin\Debug\net6.0\Ex60.pdb
+C:\hmwrk54\Ex60\obj\Debug\net6.0\Ex60.csproj.AssemblyReference.cache
+C:\hmwrk54\Ex60\obj\Debug\net6.0\Ex60.GeneratedMSBuildEditorConfig.editorconfig
+C:\hmwrk54\Ex60\obj\Debug\net6.0\Ex60.AssemblyInfoInputs.cache
+C:\hmwrk54\Ex60\obj\Debug\net6.0\Ex60.AssemblyInfo.cs
+C:\hmwrk54\Ex60\obj\Debug\net6.0\Ex60.csproj.CoreCompileInputs.cache
+C:\hmwrk54\Ex60\obj\Debug\net6.0\Ex60.dll
+C:\hmwrk54\Ex60\obj\Debug\net6.0\refint\Ex60.dll
+C:\hmwrk54\Ex60\obj\Debug\net6.0\Ex60.pdb
+C:\hmwrk54\Ex60\obj\Debug\net6.0\Ex60.genruntimeconfig.cache
+C:\hmwrk54\Ex60\obj\Debug\net6.0\ref\Ex60.dll
